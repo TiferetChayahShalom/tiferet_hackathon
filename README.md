@@ -1,4 +1,4 @@
- AI Fitness Tracker
+💪 AI Fitness Tracker
 
 ## About the Project
 
@@ -49,4 +49,4 @@ AI Fitness Tracker brings these tools together in one simple application.
 
 5. Open the Local URL shown in the terminal, usually:
 
-   http://localhost:8503
+   http://localhost:8502
