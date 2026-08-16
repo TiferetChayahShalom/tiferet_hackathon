@@ -1,4 +1,4 @@
-# :weight_lifter: AI Fitness Tracker
+ AI Fitness Tracker
 
 ## About the Project
 
@@ -28,9 +28,25 @@ AI Fitness Tracker brings these tools together in one simple application.
 - :robot_face: Gemini AI fitness coach
 - :floppy_disk: JSON data storage
 
-## How to Run the Project
+## How to Run
 
-### 1. Clone the repository
+1. Clone the repository and open the project folder in VS Code.
 
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+2. Install the required packages:
+
+   pip install streamlit pandas matplotlib google-genai
+
+3. Set your Gemini API key in Windows PowerShell:
+
+   $env:GEMINI_API_KEY="YOUR_API_KEY"
+
+   Replace `YOUR_API_KEY` with your own Gemini API key.
+   Never upload your real API key to GitHub.
+
+4. Run the Streamlit application:
+
+   py -m streamlit run tiferet_fit.py
+
+5. Open the Local URL shown in the terminal, usually:
+
+   http://localhost:8503
