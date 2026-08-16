@@ -20,12 +20,12 @@ AI Fitness Tracker brings these tools together in one simple application.
 
 - :bar_chart: Fitness dashboard
 - :bust_in_silhouette: User profile
-- :weight_lifter: Workout plans
+- 🏋️: Workout plans
 - :memo: Workout logging
 - :date: Daily fitness logs
 - :chart_with_upwards_trend: Progress tracking and charts
-- :scales: BMI calculator
-- :robot_face: Gemini AI fitness coach
+- ⚖️: BMI calculator
+- 🤖: Gemini AI fitness coach
 - :floppy_disk: JSON data storage
 
 ## How to Run
